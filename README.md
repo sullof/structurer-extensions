@@ -1,17 +1,29 @@
-# Structurer Extensions Repository Draft
+# Structurer Extensions
 
-This folder is a staging area to bootstrap the dedicated extensions repository.
+This repository contains extension packs for [Structurer](https://github.com/StructurerHQ/structurer), a privacy-first story planning app for writers.
 
-Included:
+Structurer helps you design stories with visual phases and notes. This repo keeps extra/custom structures separate from the main app so the core project stays clean and lightweight.
 
-- `EXTENSIONS.md` (catalog)
-- `CONTRIBUTING_EXTENSIONS.md` (contribution guide)
-- `extensions/structures/` (all current extension JSON files)
+## What You Will Find Here
 
-Suggested next steps:
+- `EXTENSIONS.md` - Curated catalog of available extension packs
+- `CONTRIBUTING_EXTENSIONS.md` - Rules and workflow for contributors
+- `extensions/structures/<language-code>/` - JSON files you can import into Structurer
 
-1. Move this folder next to the `structurer` project.
-2. Rename folder/repo to `structurer-extensions` (recommended).
-3. Initialize git and push to GitHub.
-4. Update links in `EXTENSIONS.md` to point to the new repository raw URLs.
-5. Update links in the main `structurer` app docs/help to the new repository.
+## How To Use Extensions
+
+1. Open the catalog in `EXTENSIONS.md`.
+2. Download a JSON file from one of the listed raw links.
+3. In Structurer, open Dashboard `... Actions`.
+4. Use `Import custom structure` (file) or `Import custom structure (paste JSON)`.
+5. The imported structure will appear in the structure selector for new stories.
+
+## Version Compatibility
+
+- JSON files in this repository target Structurer `1.12.0+`.
+- Import is strict-validated in the app: invalid files are fully rejected (no partial import).
+
+## Main App
+
+- Structurer repository: <https://github.com/StructurerHQ/structurer>
+- Live app: <https://structurer.sullo.co/>
