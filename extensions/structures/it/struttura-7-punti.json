@@ -1,0 +1,23 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_struttura_7_punti_it",
+      "uid": "st_struttura_7_punti_it_v1",
+      "name": "Struttura in 7 Punti",
+      "phases": [
+        "Hook",
+        "Primo punto di svolta",
+        "Primo pinch point",
+        "Punto medio",
+        "Secondo pinch point",
+        "Secondo punto di svolta",
+        "Risoluzione"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

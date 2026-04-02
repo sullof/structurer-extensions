@@ -1,0 +1,23 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_fichtean_curve",
+      "uid": "st_fichtean_curve_en_v1",
+      "name": "Fichtean Curve",
+      "phases": [
+        "Inciting Incident",
+        "Crisis 1",
+        "Crisis 2",
+        "Crisis 3",
+        "Crisis 4",
+        "Climax",
+        "Aftermath"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

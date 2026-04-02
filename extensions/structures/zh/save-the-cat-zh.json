@@ -1,0 +1,31 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_save_the_cat_zh",
+      "uid": "st_save_the_cat_zh_v1",
+      "name": "救猫咪 (Save the Cat)",
+      "phases": [
+        "开场画面",
+        "主题提出",
+        "铺垫",
+        "催化事件",
+        "辩论",
+        "进入第二幕",
+        "B故事",
+        "趣味与游戏",
+        "中点",
+        "反派逼近",
+        "一切尽失",
+        "灵魂黑夜",
+        "进入第三幕",
+        "终章",
+        "结束画面"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

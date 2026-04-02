@@ -1,0 +1,24 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_story_circle_es",
+      "uid": "st_story_circle_es_v1",
+      "name": "Círculo de la Historia",
+      "phases": [
+        "TÚ - Establecer protagonista",
+        "NECESIDAD - Algo no encaja",
+        "IR - Cruce del umbral",
+        "BÚSQUEDA - Camino de pruebas",
+        "ENCUENTRO - Encuentro con la diosa",
+        "TOMAR - Encuentro con el destino",
+        "REGRESO - Traerlo a casa",
+        "CAMBIO - Maestro de ambos mundos"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

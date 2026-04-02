@@ -1,0 +1,24 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_story_circle_ar",
+      "uid": "st_story_circle_ar_v1",
+      "name": "دائرة القصة",
+      "phases": [
+        "YOU - تقديم البطل",
+        "NEED - شيء ما ليس على ما يرام",
+        "GO - عبور العتبة",
+        "SEARCH - طريق الاختبارات",
+        "FIND - لقاء مع الحكمة",
+        "TAKE - دفع الثمن",
+        "RETURN - العودة بما تم اكتسابه",
+        "CHANGE - التحول"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

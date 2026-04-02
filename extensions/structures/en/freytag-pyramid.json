@@ -1,0 +1,23 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_freytag_pyramid",
+      "uid": "st_freytag_pyramid_en_v1",
+      "name": "Freytag's Pyramid",
+      "phases": [
+        "Exposition",
+        "Inciting Incident",
+        "Rising Action",
+        "Climax",
+        "Falling Action",
+        "Resolution",
+        "Denouement"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

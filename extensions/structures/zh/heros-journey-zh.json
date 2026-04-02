@@ -1,0 +1,28 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_heros_journey_zh",
+      "uid": "st_heros_journey_zh_v1",
+      "name": "英雄之旅",
+      "phases": [
+        "平凡世界",
+        "冒险召唤",
+        "拒绝召唤",
+        "遇见导师",
+        "跨越门槛",
+        "试炼、盟友与敌人",
+        "逼近最深洞穴",
+        "磨难",
+        "奖赏",
+        "归途",
+        "复活",
+        "带着灵药归来"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

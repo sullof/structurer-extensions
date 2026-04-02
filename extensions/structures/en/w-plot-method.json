@@ -1,0 +1,24 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_w_plot_method",
+      "uid": "st_w_plot_method_en_v1",
+      "name": "W-Plot / W-Method",
+      "phases": [
+        "Status Quo",
+        "First Downturn",
+        "First Recovery",
+        "Second Downturn",
+        "Second Recovery",
+        "Lowest Point",
+        "Final Rise",
+        "Resolution"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

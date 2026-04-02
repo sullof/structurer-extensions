@@ -1,0 +1,24 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_mice_quotient_it",
+      "uid": "st_mice_quotient_it_v1",
+      "name": "Quoziente MICE",
+      "phases": [
+        "Apertura domanda ambientale",
+        "Apertura domanda di idea",
+        "Apertura domanda di personaggio",
+        "Apertura domanda di evento",
+        "Chiusura domanda di evento",
+        "Chiusura domanda di personaggio",
+        "Chiusura domanda di idea",
+        "Chiusura domanda ambientale"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_heros_journey_ja",
+      "uid": "st_heros_journey_ja_v1",
+      "name": "ヒーローズ・ジャーニー",
+      "phases": [
+        "日常世界",
+        "冒険への呼びかけ",
+        "呼びかけの拒否",
+        "師との出会い",
+        "第一関門の突破",
+        "試練・仲間・敵",
+        "最も危険な場所への接近",
+        "最大の試練",
+        "報酬",
+        "帰路",
+        "復活",
+        "宝を持って帰還"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

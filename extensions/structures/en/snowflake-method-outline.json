@@ -1,0 +1,23 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_snowflake_method_outline",
+      "uid": "st_snowflake_method_outline_en_v1",
+      "name": "Snowflake Method (Outline Phases)",
+      "phases": [
+        "One-Sentence Summary",
+        "One-Paragraph Expansion",
+        "Character Core Arcs",
+        "One-Page Synopsis",
+        "Scene List",
+        "Scene Expansion",
+        "Draft Execution"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

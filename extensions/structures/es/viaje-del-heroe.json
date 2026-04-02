@@ -1,0 +1,28 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_viaje_del_heroe_es",
+      "uid": "st_viaje_del_heroe_es_v1",
+      "name": "Viaje del Héroe",
+      "phases": [
+        "Mundo ordinario",
+        "Llamado a la aventura",
+        "Rechazo del llamado",
+        "Encuentro con el mentor",
+        "Cruce del umbral",
+        "Pruebas, aliados y enemigos",
+        "Aproximación a la cueva profunda",
+        "Ordalía",
+        "Recompensa",
+        "El camino de regreso",
+        "Resurrección",
+        "Regreso con el elixir"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_estructura_tres_actos_es",
+      "uid": "st_estructura_tres_actos_es_v1",
+      "name": "Estructura de Tres Actos",
+      "phases": [
+        "Acto I - Planteamiento",
+        "Acto I - Incidente incitador",
+        "Acto II - Complicaciones progresivas",
+        "Acto II - Punto medio",
+        "Acto II - Crisis",
+        "Acto II - Paso al Acto III",
+        "Acto III - Clímax",
+        "Acto III - Resolución"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

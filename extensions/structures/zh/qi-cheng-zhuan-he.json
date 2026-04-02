@@ -1,0 +1,20 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_qi_cheng_zhuan_he_zh",
+      "uid": "st_qi_cheng_zhuan_he_zh_v1",
+      "name": "起承转合 (Qi Cheng Zhuan He)",
+      "phases": [
+        "起 - 开端",
+        "承 - 承接与发展",
+        "转 - 转折",
+        "合 - 收束"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

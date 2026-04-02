@@ -1,0 +1,31 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_save_the_cat_it",
+      "uid": "st_save_the_cat_it_v1",
+      "name": "Save the Cat (Italiano)",
+      "phases": [
+        "Immagine iniziale",
+        "Tema dichiarato",
+        "Setup",
+        "Catalizzatore",
+        "Dibattito",
+        "Entrata nel secondo atto",
+        "Trama B",
+        "Fun and Games",
+        "Punto medio",
+        "I cattivi si avvicinano",
+        "Tutto è perduto",
+        "Notte oscura dell'anima",
+        "Entrata nel terzo atto",
+        "Finale",
+        "Immagine finale"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

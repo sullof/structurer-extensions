@@ -1,0 +1,20 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_kishotenketsu_ja",
+      "uid": "st_kishotenketsu_ja_v1",
+      "name": "起承転結 (Kishotenketsu)",
+      "phases": [
+        "起 (Ki) - 導入",
+        "承 (Sho) - 展開",
+        "転 (Ten) - 転換",
+        "結 (Ketsu) - 結末"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

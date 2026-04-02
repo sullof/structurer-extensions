@@ -1,0 +1,28 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_viaggio_dell_eroe_it",
+      "uid": "st_viaggio_dell_eroe_it_v1",
+      "name": "Viaggio dell'Eroe",
+      "phases": [
+        "Mondo ordinario",
+        "Chiamata all'avventura",
+        "Rifiuto della chiamata",
+        "Incontro con il mentore",
+        "Attraversamento della soglia",
+        "Prove, alleati e nemici",
+        "Avvicinamento alla caverna più profonda",
+        "Prova centrale",
+        "Ricompensa",
+        "Via del ritorno",
+        "Resurrezione",
+        "Ritorno con l'elisir"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

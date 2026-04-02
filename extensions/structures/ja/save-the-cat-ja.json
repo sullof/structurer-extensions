@@ -1,0 +1,31 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_save_the_cat_ja",
+      "uid": "st_save_the_cat_ja_v1",
+      "name": "セーブ・ザ・キャット",
+      "phases": [
+        "オープニング・イメージ",
+        "テーマ提示",
+        "セットアップ",
+        "きっかけ",
+        "葛藤",
+        "第二幕へ",
+        "Bストーリー",
+        "お楽しみパート",
+        "中間点",
+        "敵の接近",
+        "すべてを失う",
+        "魂の暗い夜",
+        "第三幕へ",
+        "フィナーレ",
+        "ラスト・イメージ"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

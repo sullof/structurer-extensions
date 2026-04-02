@@ -1,0 +1,23 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_holly_lisle_clinic",
+      "uid": "st_holly_lisle_clinic_en_v1",
+      "name": "Holly Lisle's Clinic Method",
+      "phases": [
+        "Core Story Question",
+        "Conflict and Stakes Audit",
+        "Character Arc Diagnosis",
+        "Scene-Level Problem Spots",
+        "Structural Repair Plan",
+        "Rewrite Pass",
+        "Verification Pass"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

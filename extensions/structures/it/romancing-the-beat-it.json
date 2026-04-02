@@ -1,0 +1,25 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_romancing_the_beat_it",
+      "uid": "st_romancing_the_beat_it_v1",
+      "name": "Romancing the Beat (Italiano)",
+      "phases": [
+        "Setup e bisogno",
+        "Incontro e scintilla",
+        "Nessuna possibilità / Resistenza",
+        "Adesione / Prossimità forzata",
+        "Desiderio crescente",
+        "Ritiro e dubbio",
+        "Rottura / Crisi",
+        "Grande gesto",
+        "Impegno / HEA-HFN"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

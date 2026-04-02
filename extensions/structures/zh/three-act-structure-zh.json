@@ -1,0 +1,24 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_three_act_structure_zh",
+      "uid": "st_three_act_structure_zh_v1",
+      "name": "三幕结构",
+      "phases": [
+        "第一幕 - 铺垫",
+        "第一幕 - 触发事件",
+        "第二幕 - 递进冲突",
+        "第二幕 - 中点",
+        "第二幕 - 危机",
+        "第二幕 - 进入第三幕",
+        "第三幕 - 高潮",
+        "第三幕 - 结局"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

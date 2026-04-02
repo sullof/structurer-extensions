@@ -1,0 +1,24 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_story_circle_zh",
+      "uid": "st_story_circle_zh_v1",
+      "name": "故事圆环",
+      "phases": [
+        "YOU - 建立主角",
+        "NEED - 出现缺失",
+        "GO - 跨越门槛",
+        "SEARCH - 试炼之路",
+        "FIND - 得到关键之物",
+        "TAKE - 付出代价",
+        "RETURN - 带着成果归来",
+        "CHANGE - 完成转变"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

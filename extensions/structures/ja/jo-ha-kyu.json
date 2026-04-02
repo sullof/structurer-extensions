@@ -1,0 +1,19 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_jo_ha_kyu_ja",
+      "uid": "st_jo_ha_kyu_ja_v1",
+      "name": "序破急 (Jo-Ha-Kyu)",
+      "phases": [
+        "序 (Jo) - 導入",
+        "破 (Ha) - 展開と変化",
+        "急 (Kyu) - 収束と結末"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

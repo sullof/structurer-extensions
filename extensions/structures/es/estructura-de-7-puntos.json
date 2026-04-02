@@ -1,0 +1,23 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_estructura_7_puntos_es",
+      "uid": "st_estructura_7_puntos_es_v1",
+      "name": "Estructura de 7 Puntos",
+      "phases": [
+        "Gancho",
+        "Giro de trama 1",
+        "Punto de presión 1",
+        "Punto medio",
+        "Punto de presión 2",
+        "Giro de trama 2",
+        "Resolución"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

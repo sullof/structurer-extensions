@@ -1,0 +1,24 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_mice_quotient_es",
+      "uid": "st_mice_quotient_es_v1",
+      "name": "Cociente MICE",
+      "phases": [
+        "Apertura de pregunta de entorno",
+        "Apertura de pregunta de idea",
+        "Apertura de pregunta de personaje",
+        "Apertura de pregunta de evento",
+        "Cierre de pregunta de evento",
+        "Cierre de pregunta de personaje",
+        "Cierre de pregunta de idea",
+        "Cierre de pregunta de entorno"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

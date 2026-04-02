@@ -1,0 +1,24 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_three_act_structure_ja",
+      "uid": "st_three_act_structure_ja_v1",
+      "name": "三幕構成",
+      "phases": [
+        "第一幕 - 導入",
+        "第一幕 - 発端",
+        "第二幕 - 進行する障害",
+        "第二幕 - 中間点",
+        "第二幕 - 危機",
+        "第二幕 - 第三幕への転換",
+        "第三幕 - クライマックス",
+        "第三幕 - 解決"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}

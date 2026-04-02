@@ -1,0 +1,24 @@
+{
+  "exportType": "structurer.custom-structures",
+  "schemaVersion": 1,
+  "exportedAt": 1775095200000,
+  "appVersion": "1.12.0",
+  "structures": [
+    {
+      "id": "custom_story_circle_ja",
+      "uid": "st_story_circle_ja_v1",
+      "name": "ストーリー・サークル",
+      "phases": [
+        "YOU - 主人公を示す",
+        "NEED - 何かが欠けている",
+        "GO - 閾を越える",
+        "SEARCH - 試練の道",
+        "FIND - 女神との出会い",
+        "TAKE - 代償を払う",
+        "RETURN - 持ち帰る",
+        "CHANGE - 変化した姿"
+      ],
+      "updatedAt": 1775095200000
+    }
+  ]
+}
