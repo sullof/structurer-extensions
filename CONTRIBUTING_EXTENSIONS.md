@@ -78,7 +78,7 @@ If you are not comfortable using GitHub, you can still propose an extension:
 
 1. Prepare your JSON file(s) using Structurer (create the structure in the app, then **Export custom structures** and keep only what you want to share).
 2. Zip the JSON file(s).
-3. In your email, include for each structure: **structure name**, **language** (or language code), and a **short description** of what it is for (you may write the description in **Italian** if you prefer).
+3. In your email, include for each structure: **structure name**, **language** (or language code), and a **short description** of what it is for.
 4. Send everything to **francesco@sullo.co**.
 
 A maintainer can review your files and, if they fit the catalog rules, add them to this repository and `EXTENSIONS.md` on your behalf.
