@@ -20,10 +20,14 @@ Structurer helps you design stories with visual phases and notes. This repo keep
 
 ## Version Compatibility
 
-- JSON files in this repository target Structurer `1.12.0+`.
+- JSON files use **`schemaVersion`: `2`** and **`appVersion`**: **`1.13.1`** (custom-structures format with structure-level `description` and `author`). Use Structurer **`1.13.1+`**, which accepts **`schemaVersion` 1 or 2** on import and shows structure metadata from 1.13.1 onward.
+- Per-phase `title` + `description` remain compatible with Structurer **1.12.0+** phase help; structure-level metadata is honored on import and shown in the app from **1.13.1** onward.
 - Import is strict-validated in the app: invalid files are fully rejected (no partial import).
 
 ## History
+
+**2026-04-03 (later)**  
+— Custom-structures **`schemaVersion` 2** (with `appVersion` `1.13.1`); every structure includes localized structure-level `description` and `author` for Structurer 1.13.1 metadata UI; docs updated.
 
 **2026-04-03** 
 — All extension structures updated with per-phase descriptions (`title` + `description`) for use with Structurer’s phase help UI.

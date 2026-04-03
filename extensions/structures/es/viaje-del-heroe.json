@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_viaje_del_heroe_es",
       "uid": "st_viaje_del_heroe_es_v1",
       "name": "Viaje del Héroe",
+      "description": "Doce etapas que siguen al protagonista desde la vida cotidiana, pasando por la prueba y la transformación, hasta el regreso con algo que cambia su mundo. El patrón sintetiza el monomito comparativo de Joseph Campbell en un mapa práctico para ficción y cine; las interpretaciones de Christopher Vogler para guionistas lo popularizaron en Hollywood.",
+      "author": "A partir de Joseph Campbell; uso extendido en la escritura creativa mediante las lecturas de Christopher Vogler.",
       "phases": [
         {
           "title": "Mundo ordinario",

@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_mini_movie_method",
       "uid": "st_mini_movie_method_en_v1",
       "name": "Mini-Movie Method",
+      "description": "Splits the novel into sequential “mini-movies”—each with its own arc and hook—so long-form stories stay vivid and propulsive. Strong for planners who think in cinematic sequences and chapter-sized units.",
+      "author": "Carol Hughes and Linda Workman Smith (novel-planning adaptation of sequence thinking).",
       "phases": [
         {
           "title": "Opening Image",

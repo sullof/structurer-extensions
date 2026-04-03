@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_story_circle_zh",
       "uid": "st_story_circle_zh_v1",
       "name": "故事圆环",
+      "description": "八个环形步骤：从主人公的匮乏与需求，进入陌生世界历险，再带着所得归来并呈现持久改变。适合在剧集与电影中平衡欲望、代价与成长。",
+      "author": "丹·哈蒙的「故事圈」，与约瑟夫·坎贝尔的单一神话相呼应。",
       "phases": [
         {
           "title": "YOU - 建立主角",

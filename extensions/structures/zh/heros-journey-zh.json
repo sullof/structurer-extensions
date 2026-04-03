@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_heros_journey_zh",
       "uid": "st_heros_journey_zh_v1",
       "name": "英雄之旅",
+      "description": "十二个阶段追踪主人公从日常生活出发，经历磨难与蜕变，最终带着改变世界的收获归来。该模式将约瑟夫·坎贝尔的比较神话学（单一神话）提炼为小说与影视可用的路线图；经克里斯托弗·沃格勒等编剧指南阐释后，在好莱坞叙事中尤为常见。",
+      "author": "源自约瑟夫·坎贝尔；经克里斯托弗·沃格勒等人的阐释在写作实务中广泛使用。",
       "phases": [
         {
           "title": "平凡世界",

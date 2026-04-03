@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_mice_quotient_es",
       "uid": "st_mice_quotient_es_v1",
       "name": "Cociente MICE",
+      "description": "Cuatro tipos de hilo narrativo—Entorno, Idea, Personaje, Suceso—para diseñar y cerrar subtramas sin dejar promesas abiertas. Muy útil en relatos cortos, antologías y revisiones de tramas paralelas.",
+      "author": "Orson Scott Card (cociente MICE); divulgación en la enseñanza de narrativa especulativa.",
       "phases": [
         {
           "title": "Apertura de pregunta de entorno",

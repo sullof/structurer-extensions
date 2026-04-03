@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_maqama_episodic_chain_ar",
       "uid": "st_maqama_episodic_chain_ar_v1",
       "name": "المقامة (Maqama Episodic Chain)",
+      "description": "سلسلة حلقات سردية تستلهم المقامة العربية: إطار، قصص متشابكة، ومفارقات لغوية أو أخلاقية. مناسبة للسرد التراكبي، السخرية الاجتماعية، والحكايات ذات الصوت المتعدد.",
+      "author": "شكل أدبي من التراث العربي (الحَرِيري وغيره)؛ هذا المخطط تكييف حديث للكتابة المعاصرة.",
       "phases": [
         {
           "title": "المقدمة السردية",

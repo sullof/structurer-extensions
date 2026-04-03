@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_eroe_mille_facce_it",
       "uid": "st_eroe_mille_facce_it_v1",
       "name": "L'Eroe dalle Mille Facce",
+      "description": "Un percorso mitico in più stadi (chiamata, soglia, prove, crisi, elisir) ispirato al monomito: utile quando vuoi collegare il viaggio del protagonista a archetipi e trasformazione profonda piuttosto che solo a una sequenza di eventi.",
+      "author": "Joseph Campbell, Il mito dell'eroe; adattamenti e sintesi nella pratica della scrittura creativa.",
       "phases": [
         {
           "title": "Chiamata all'avventura",

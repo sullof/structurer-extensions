@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_viaggio_dell_eroe_it",
       "uid": "st_viaggio_dell_eroe_it_v1",
       "name": "Viaggio dell'Eroe",
+      "description": "Dodici tappe che seguono il protagonista dalla vita ordinaria attraverso la prova e la trasformazione fino al ritorno con qualcosa che cambia il suo mondo. Il modello sintetizza il monomito comparato di Joseph Campbell in una mappa pratica per narrativa e cinema; le interpretazioni di Christopher Vogler per sceneggiatori hanno reso questa forma particolarmente familiare a Hollywood.",
+      "author": "Dopo Joseph Campbell; uso diffuso nella scrittura tramite le interpretazioni di Christopher Vogler.",
       "phases": [
         {
           "title": "Mondo ordinario",

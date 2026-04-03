@@ -13,12 +13,14 @@ Custom structure files must use this top-level shape:
 ```json
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 0,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": []
 }
 ```
+
+Use **`schemaVersion`: `2`** for new files in this repository (structure-level `description` / `author` on each entry). Structurer still accepts **`1`** for older exports (same `structures` shape; optional metadata may be absent). The app rejects any other `schemaVersion` value.
 
 ## Structure Object Contract
 
@@ -29,6 +31,13 @@ Each item in `structures` must include:
 - `name` (string)
 - `phases` (array, at least 2 entries)
 - `updatedAt` (number, unix milliseconds)
+
+Each item in `structures` **in this repository** should also include:
+
+- `description` (string) — what the structure is for, in the **same language** as the structure name and phase titles.
+- `author` (string) — short attribution (source model, tradition, or book); same language when possible.
+
+In the Structurer app these two fields are **optional** on import, but **pull requests to this repo should always include them** (non-empty after trim) so the structure-level help introduced in **Structurer 1.13.1** stays useful. The app validates them (max lengths, no raw URLs in description, etc.); exporting from Structurer 1.13.1+ produces compliant values.
 
 ### `phases` format
 
@@ -120,9 +129,9 @@ After the English + Italian pilot, use this checklist for `es`, `ar`, `zh`, `ja`
 1. **Inventory** — List JSON files under `extensions/structures/<lang>/`.
 2. **Convert** — Replace string-only `phases` with `{ "title": "…", "description": "…" }` (descriptions in the **same language** as the titles).
 3. **Validate** — Ensure valid JSON; each phase has non-empty `title` and `description`; `id` / `uid` rules unchanged.
-4. **Import test** — In Structurer 1.12.0+, use **Import custom structure** on at least one file from that folder to confirm strict validation passes.
+4. **Import test** — In Structurer **1.13.1+**, use **Import custom structure** on at least one file from that folder to confirm strict validation passes (including structure `description` / `author` if present).
 5. **Docs** — No change to `EXTENSIONS.md` links unless filenames change; update this guide if the contract evolves.
 
 ### Maintainer validation (optional)
 
-You can sanity-check files against Structurer’s importer by opening the app and importing a sample file, or by running a small script that mirrors `parseImportedCustomStructures` in the main app (`structurer` repo, `src/main.js`).
+You can sanity-check files against Structurer’s importer by opening the app and importing a sample file. For structure-level `description` / `author` strings, you can also run the same validators the app uses: `validateStructureDescription` and `validateStructureAuthor` in the main app (`structurer` repo, `src/structure-metadata.js`).

@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_qi_cheng_zhuan_he_zh",
       "uid": "st_qi_cheng_zhuan_he_zh_v1",
       "name": "起承转合 (Qi Cheng Zhuan He)",
+      "description": "东亚叙事传统的四段式：起（引入）、承（展开）、转（转折）、合（收束）。强调情势推进与反差收束，不必拘泥于西式「冲突升级」单一模型。",
+      "author": "中国古典文论与东亚诗文、叙事惯例中的常见章法（非单一作者提出）。",
       "phases": [
         {
           "title": "起 - 开端",

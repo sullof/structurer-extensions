@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_freytag_pyramid",
       "uid": "st_freytag_pyramid_en_v1",
       "name": "Freytag's Pyramid",
+      "description": "A classic five- (or seven-)part arc from exposition through rising action, climax, and resolution. It turns 19th-century dramatic analysis into a practical map for pacing tension and payoff in fiction, theatre, and film.",
+      "author": "After Gustav Freytag’s model of dramatic structure, widely used in writing craft.",
       "phases": [
         {
           "title": "Exposition",

@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_save_the_cat_ar",
       "uid": "st_save_the_cat_ar_v1",
       "name": "Save the Cat (العربية)",
+      "description": "نبضات سينمائية تغطي الافتتاح، الوعد، نقطة اللاعودة، المنتصف، لحظة «كل شيء ضاع»، والختام. تساعد على ضبط النبرة والموضوع والإيقاع بزاوية تجارية واضحة.",
+      "author": "بلايك سنايدر، Save the Cat!؛ مكيّف لتخطيط الرواية والسيناريو.",
       "phases": [
         {
           "title": "الصورة الافتتاحية",

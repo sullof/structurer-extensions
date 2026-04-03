@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_jo_ha_kyu_ja",
       "uid": "st_jo_ha_kyu_ja_v1",
       "name": "序破急 (Jo-Ha-Kyu)",
+      "description": "能楽などにみる三段のリズム：序（導入）、破（展開）、急（勢いよい収束）。導入から高まり、テンポよく締めるまでの流れを設計するのに使える。",
+      "author": "日本の伝統芸能における型；現代の物語・映像構成への応用は慣例的な借用。",
       "phases": [
         {
           "title": "序 (Jo) - 導入",

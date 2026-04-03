@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_holly_lisle_clinic",
       "uid": "st_holly_lisle_clinic_en_v1",
       "name": "Holly Lisle's Clinic Method",
+      "description": "A revision-first workflow for diagnosing a draft: define the core story question, audit scenes for purpose, then rebuild conflict, character, and language until the manuscript earns its ending.",
+      "author": "Holly Lisle’s clinic-style revision process for novelists.",
       "phases": [
         {
           "title": "Core Story Question",

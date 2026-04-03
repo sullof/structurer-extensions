@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_three_act_structure_ar",
       "uid": "st_three_act_structure_ar_v1",
       "name": "البنية ثلاثية الفصول",
+      "description": "إعداد ومواجهة وحلّ: الهيكل الأشهر في الرواية والسيناريو. يساعد على وضع نقطة التحول ونقطة اللاعودة والذروة بحيث يشعر القارئ أو المشاهد بتصاعد التوتر وإغلاقٍ مُرضٍ.",
+      "author": "نموذج درامي غربي كلاسيكي؛ شائع في كتب السيناريو (مثل سيد فيلد) وتعليم السرد.",
       "phases": [
         {
           "title": "الفصل الأول - التمهيد",

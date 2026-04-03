@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_kishotenketsu_ja",
       "uid": "st_kishotenketsu_ja_v1",
       "name": "起承転結 (Kishotenketsu)",
+      "description": "起・承・転・結の四部からなる展開の型。情報と感情を積み上げ、転で視点や解釈をずらし、結で余韻やまとめを与える。直接的な対立の連鎖に頼らない構造づくりに適する。",
+      "author": "漢文や和歌など東アジアの詩文作法に見られる構成（近世以降の創作論でも参照される慣用型）。",
       "phases": [
         {
           "title": "起 (Ki) - 導入",

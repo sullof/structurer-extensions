@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_struttura_7_punti_it",
       "uid": "st_struttura_7_punti_it_v1",
       "name": "Struttura in 7 Punti",
+      "description": "Sette ancore narrative (dal hook al pinch al dark moment al climax) per costruire tensione e coerenza. Utile per chi vuole una griglia più fine della sola struttura a tre atti senza appesantire l’outline.",
+      "author": "Dan Wells, sulla base di idee di role-playing/story structure; diffuso tra autori di fantascienza e fantasy.",
       "phases": [
         {
           "title": "Hook",

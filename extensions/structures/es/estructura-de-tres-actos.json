@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_estructura_tres_actos_es",
       "uid": "st_estructura_tres_actos_es_v1",
       "name": "Estructura de Tres Actos",
+      "description": "Plantación, confrontación y resolución: el esqueleto más habitual en novela y guion. Ayuda a situar el giro, el punto de no retorno y el clímax para que el lector perciba la tensión creciente y un cierre satisfactorio.",
+      "author": "Modelo clásico del drama occidental; sistematizado en muchos manuales de guion (p. ej. Syd Field) y enseñanza literaria.",
       "phases": [
         {
           "title": "Acto I - Planteamiento",

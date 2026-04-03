@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_katha_frame_tradition_sa",
       "uid": "st_katha_frame_tradition_sa_v1",
       "name": "कथा-फ्रेम परंपरा (Katha Frame Tradition)",
+      "description": "बाहरी कथाकार, संदर्भ और भीतरी उपकथाओं का जाल—जैसे पंचतंत्र या कथा-सरिता-सागर की परंपरा। आधुनिक उपन्यास और सीरीज़ में नेस्टेड कथाओं, विषय-प्रतिध्वनि और चौखट-वापसी के लिए उपयोगी।",
+      "author": "भारतीय और संस्कृत कथा-संग्रहों की रूपरेखा; यहाँ आधुनिक लेखन हेतु अनुकूलित मॉडल।",
       "phases": [
         {
           "title": "फ्रेम कथा की स्थापना",

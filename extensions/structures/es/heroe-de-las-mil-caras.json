@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_heroe_mil_caras_es",
       "uid": "st_heroe_mil_caras_es_v1",
       "name": "El Héroe de las Mil Caras",
+      "description": "Un camino mítico por etapas (llamada, umbral, pruebas, crisis, elixir) inspirado en el monomito: útil para enlazar el viaje del protagonista con arquetipos y transformación profunda, no solo con una sucesión de acontecimientos.",
+      "author": "Joseph Campbell, El héroe de las mil caras; adaptaciones en manuales y talleres de narrativa.",
       "phases": [
         {
           "title": "Llamado a la aventura",

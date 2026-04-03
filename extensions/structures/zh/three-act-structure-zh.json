@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_three_act_structure_zh",
       "uid": "st_three_act_structure_zh_v1",
       "name": "三幕结构",
+      "description": "建置、对抗、结局——小说与剧本中最常用的叙事骨架。有助于安放转折点、不归点与高潮，让读者清晰感到张力上升与收束。",
+      "author": "西方戏剧的经典模型；在悉德·菲尔德等编剧教程与写作教学中广泛沿用。",
       "phases": [
         {
           "title": "第一幕 - 铺垫",

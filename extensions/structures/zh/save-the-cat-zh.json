@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_save_the_cat_zh",
       "uid": "st_save_the_cat_zh_v1",
       "name": "救猫咪 (Save the Cat)",
+      "description": "覆盖开场、主题昭示、转折点、中点、「一无所有」与终场等节拍，帮助把控基调、主题与商业节奏，适用于长篇小说与剧本规划。",
+      "author": "布莱克·斯奈德《救猫咪！》；本结构为其节拍框架的本地化应用。",
       "phases": [
         {
           "title": "开场画面",

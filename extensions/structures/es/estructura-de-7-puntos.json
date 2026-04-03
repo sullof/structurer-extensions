@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_estructura_7_puntos_es",
       "uid": "st_estructura_7_puntos_es_v1",
       "name": "Estructura de 7 Puntos",
+      "description": "Siete hitos (del gancho al momento oscuro y el clímax) para construir tensión y coherencia. Útil si quieres una malla más detallada que la de tres actos sin sobrecargar el esquema.",
+      "author": "Dan Wells, inspirado en ideas de estructura narrativa de juegos de rol; muy difundido entre autores de género.",
       "phases": [
         {
           "title": "Gancho",

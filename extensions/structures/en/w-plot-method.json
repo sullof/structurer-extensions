@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_w_plot_method",
       "uid": "st_w_plot_method_en_v1",
       "name": "W-Plot / W-Method",
+      "description": "A double reversal pattern: establish normality, drop into complication, rally toward hope, then crash again before the final climb. The W shape helps balance setbacks and forward motion in commercial pacing.",
+      "author": "Popularized for novelists by Mary Carroll Moore; related ideas appear in many screenwriting beat models.",
       "phases": [
         {
           "title": "Status Quo",

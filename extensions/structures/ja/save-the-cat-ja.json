@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_save_the_cat_ja",
       "uid": "st_save_the_cat_ja_v1",
       "name": "セーブ・ザ・キャット",
+      "description": "冒頭、テーマの提示、転換点、中盤、「全滅」、クライマックスなどをカバーするビート列。トーンとテーマと商業的テンポを設計するのに役立つ。",
+      "author": "ブレイク・スナイダー『セーブ・ザ・キャット！』；長編小説・脚本の計画への応用。",
       "phases": [
         {
           "title": "オープニング・イメージ",

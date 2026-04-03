@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_novela_picaresca_es",
       "uid": "st_novela_picaresca_es_v1",
       "name": "Novela Picaresca",
+      "description": "Estructura episódica centrada en un protagonista marginal que narra (o vive) aventuras encadenadas con ironía social. Sirve para novelas de tesis, sátira y relatos de iniciación en un mundo hostil.",
+      "author": "Forma desarrollada en la tradición europea moderna (p. ej. Lazarillo, El buscón); modelo literario, no un solo autor.",
       "phases": [
         {
           "title": "Orígenes humildes",

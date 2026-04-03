@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_save_the_cat_es",
       "uid": "st_save_the_cat_es_v1",
       "name": "Save the Cat (Español)",
+      "description": "Beats de guion que cubren apertura, promesa, punto de no retorno, punto medio, “todo está perdido” y desenlace. Ayuda a controlar tono, tema y ritmo con enfoque comercial.",
+      "author": "Blake Snyder, Save the Cat!; adaptado a la planificación de novela y guion.",
       "phases": [
         {
           "title": "Imagen inicial",

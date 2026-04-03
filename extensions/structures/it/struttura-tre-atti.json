@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_struttura_tre_atti_it",
       "uid": "st_struttura_tre_atti_it_v1",
       "name": "Struttura in Tre Atti",
+      "description": "Setup, confronto e risoluzione: l’impalcatura più diffusa in narrativa e sceneggiatura. Aiuta a posizionare svolta, punto di non ritorno e climax in modo che il pubblico senta l’intensità salire e chiudersi.",
+      "author": "Modello classico del dramma occidentale; codificato in molti manuali di sceneggiatura (es. Syd Field) e insegnamento di scrittura.",
       "phases": [
         {
           "title": "Atto I - Setup",

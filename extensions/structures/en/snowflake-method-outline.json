@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_snowflake_method_outline",
       "uid": "st_snowflake_method_outline_en_v1",
       "name": "Snowflake Method (Outline Phases)",
+      "description": "A fractal planning path: start with one sentence, expand to a paragraph, then characters and scenes before drafting. It helps writers who like to discover structure early without locking prose too soon.",
+      "author": "Randy Ingermanson’s Snowflake Method.",
       "phases": [
         {
           "title": "One-Sentence Summary",

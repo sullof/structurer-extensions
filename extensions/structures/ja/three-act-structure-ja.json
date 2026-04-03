@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_three_act_structure_ja",
       "uid": "st_three_act_structure_ja_v1",
       "name": "三幕構成",
+      "description": "セットアップ、対立、解決——小説と脚本で最も一般的な骨格。転換点、ポイント・オブ・ノー・リターン、クライマックスの置き方を整え、読者に緊張の上昇と満足の収束を感じさせる。",
+      "author": "西洋演劇の古典モデル；シド・フィールドほか脚本術・小説講座で体系化。",
       "phases": [
         {
           "title": "第一幕 - 導入",

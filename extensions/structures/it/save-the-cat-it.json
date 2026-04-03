@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_save_the_cat_it",
       "uid": "st_save_the_cat_it_v1",
       "name": "Save the Cat (Italiano)",
+      "description": "Battenti da screenplay che coprono apertura, promessa, punto di non ritorno, midpoint, “tutto è perduto” e finale. Aiuta a tenere sotto controllo tono, tema e ritmo commerciale.",
+      "author": "Blake Snyder, Save the Cat!; adattato per pianificazione di romanzo e sceneggiatura.",
       "phases": [
         {
           "title": "Immagine iniziale",

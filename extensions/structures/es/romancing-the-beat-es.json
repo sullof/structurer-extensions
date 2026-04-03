@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_romancing_the_beat_es",
       "uid": "st_romancing_the_beat_es_v1",
       "name": "Romancing the Beat (Español)",
+      "description": "Una secuencia de pasos para el arco romántico: encuentro, resistencia, cercanía forzada, momento oscuro y final feliz (o feliz por ahora). Útil en romance y en subtramas amorosas.",
+      "author": "Gwen Hayes, Romancing the Beat.",
       "phases": [
         {
           "title": "Planteamiento y necesidad",

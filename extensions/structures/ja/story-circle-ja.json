@@ -1,13 +1,15 @@
 {
   "exportType": "structurer.custom-structures",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "exportedAt": 1775095200000,
-  "appVersion": "1.12.0",
+  "appVersion": "1.13.1",
   "structures": [
     {
       "id": "custom_story_circle_ja",
       "uid": "st_story_circle_ja_v1",
       "name": "ストーリー・サークル",
+      "description": "主人公の欠如と欲求から未知の世界へ入り、変わって帰るまでの八つの環状ステップ。ドラマや長編で、願い・代償・変化のバランスを取るのに向く。",
+      "author": "ダン・ハーモンのストーリー・サークル（キャンベルの単一神話に触発）。",
       "phases": [
         {
           "title": "YOU - 主人公を示す",
