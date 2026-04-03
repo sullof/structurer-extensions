@@ -9,13 +9,34 @@
       "uid": "st_holly_lisle_clinic_en_v1",
       "name": "Holly Lisle's Clinic Method",
       "phases": [
-        "Core Story Question",
-        "Conflict and Stakes Audit",
-        "Character Arc Diagnosis",
-        "Scene-Level Problem Spots",
-        "Structural Repair Plan",
-        "Rewrite Pass",
-        "Verification Pass"
+        {
+          "title": "Core Story Question",
+          "description": "Name the single question the narrative must answer so every scene can be judged against it."
+        },
+        {
+          "title": "Conflict and Stakes Audit",
+          "description": "Find where conflict softens, repeats, or goes missing—and what is truly at risk if the hero fails."
+        },
+        {
+          "title": "Character Arc Diagnosis",
+          "description": "Check want vs. need, lie vs. truth, and whether behavior change tracks the plot."
+        },
+        {
+          "title": "Scene-Level Problem Spots",
+          "description": "Flag scenes that confuse, stall, contradict earlier setup, or dodge the core conflict."
+        },
+        {
+          "title": "Structural Repair Plan",
+          "description": "Prioritize fixes: plot logic, character motivation, pacing, then line-level polish."
+        },
+        {
+          "title": "Rewrite Pass",
+          "description": "Apply targeted rewrites scene by scene, keeping the repair plan in view."
+        },
+        {
+          "title": "Verification Pass",
+          "description": "Cold read for clarity, emotional payoff, and whether the core question is fully answered."
+        }
       ],
       "updatedAt": 1775095200000
     }

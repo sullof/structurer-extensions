@@ -9,14 +9,38 @@
       "uid": "st_mice_quotient_es_v1",
       "name": "Cociente MICE",
       "phases": [
-        "Apertura de pregunta de entorno",
-        "Apertura de pregunta de idea",
-        "Apertura de pregunta de personaje",
-        "Apertura de pregunta de evento",
-        "Cierre de pregunta de evento",
-        "Cierre de pregunta de personaje",
-        "Cierre de pregunta de idea",
-        "Cierre de pregunta de entorno"
+        {
+          "title": "Apertura de pregunta de entorno",
+          "description": "Abre el hilo del mundo entrando, descubriendo o siendo desplazado a un escenario."
+        },
+        {
+          "title": "Apertura de pregunta de idea",
+          "description": "Presenta el misterio o el problema que exige una explicación."
+        },
+        {
+          "title": "Apertura de pregunta de personaje",
+          "description": "Plantea un conflicto interno que el personaje debe resolver para crecer."
+        },
+        {
+          "title": "Apertura de pregunta de evento",
+          "description": "Rompe el orden con un cambio que crea apuestas externas inmediatas."
+        },
+        {
+          "title": "Cierre de pregunta de evento",
+          "description": "Restaura o redefine el orden resolviendo la ruptura externa."
+        },
+        {
+          "title": "Cierre de pregunta de personaje",
+          "description": "Completa el arco interno mostrando la elección transformada o la nueva identidad."
+        },
+        {
+          "title": "Cierre de pregunta de idea",
+          "description": "Responde al misterio o problema, o acepta la mejor explicación disponible."
+        },
+        {
+          "title": "Cierre de pregunta de entorno",
+          "description": "Cierra el hilo del mundo saliendo, regresando o integrándote en el escenario."
+        }
       ],
       "updatedAt": 1775095200000
     }

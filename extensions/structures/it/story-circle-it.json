@@ -9,14 +9,38 @@
       "uid": "st_story_circle_it_v1",
       "name": "Cerchio della Storia",
       "phases": [
-        "TU - Definisci un protagonista",
-        "BISOGNO - Qualcosa non va",
-        "VAI - Attraversamento della soglia",
-        "RICERCA - Strada delle prove",
-        "TROVA - Incontro con la dea",
-        "PRENDI - Incontro col destino",
-        "RITORNO - Riportare tutto a casa",
-        "CAMBIAMENTO - Maestro di entrambi i mondi"
+        {
+          "title": "TU - Definisci un protagonista",
+          "description": "Radica il lettore in chi è il protagonista e com’è la sua vita normale."
+        },
+        {
+          "title": "BISOGNO - Qualcosa non va",
+          "description": "Mostra una mancanza, una ferita o un desiderio che crea tensione e spinge al movimento."
+        },
+        {
+          "title": "VAI - Attraversamento della soglia",
+          "description": "Il protagonista lascia il comfort e entra in una situazione o un mondo sconosciuto."
+        },
+        {
+          "title": "RICERCA - Strada delle prove",
+          "description": "Si adatta attraverso tentativi, fallimenti, alleati e opposizione."
+        },
+        {
+          "title": "TROVA - Incontro con la dea",
+          "description": "Raggiunge ciò che voleva o di cui aveva bisogno, spesso con un costo sorprendente."
+        },
+        {
+          "title": "PRENDI - Incontro col destino",
+          "description": "Si paga un prezzo duro: sacrificio, perdita o scontro con la paura più profonda."
+        },
+        {
+          "title": "RITORNO - Riportare tutto a casa",
+          "description": "Il protagonista torna al mondo iniziale portando ciò che ha guadagnato."
+        },
+        {
+          "title": "CAMBIAMENTO - Maestro di entrambi i mondi",
+          "description": "Mostra una trasformazione duratura in valori, comportamento o identità."
+        }
       ],
       "updatedAt": 1775095200000
     }

@@ -9,21 +9,66 @@
       "uid": "st_save_the_cat_es_v1",
       "name": "Save the Cat (Español)",
       "phases": [
-        "Imagen inicial",
-        "Tema enunciado",
-        "Planteamiento",
-        "Catalizador",
-        "Debate",
-        "Paso al Acto II",
-        "Trama B",
-        "Diversión y juegos",
-        "Punto medio",
-        "Los malos se acercan",
-        "Todo está perdido",
-        "Noche oscura del alma",
-        "Paso al Acto III",
-        "Final",
-        "Imagen final"
+        {
+          "title": "Imagen inicial",
+          "description": "Una instantánea del mundo del héroe antes del cambio; establece tono y punto de partida."
+        },
+        {
+          "title": "Tema enunciado",
+          "description": "Alguien formula la lección central o la pregunta de la historia, a menudo antes de que el héroe la entienda."
+        },
+        {
+          "title": "Planteamiento",
+          "description": "Construye personajes, defectos, apuestas y relaciones que se pondrán a prueba después."
+        },
+        {
+          "title": "Catalizador",
+          "description": "Un suceso disruptivo saca al héroe de la rutina y crea un problema claro."
+        },
+        {
+          "title": "Debate",
+          "description": "El héroe resiste actuar, pesando miedo, coste e incertidumbre antes de comprometerse."
+        },
+        {
+          "title": "Paso al Acto II",
+          "description": "El héroe elige entrar en el mundo al revés del segundo acto."
+        },
+        {
+          "title": "Trama B",
+          "description": "Comienza una subtrama relacional o temática que sostiene la transformación del héroe."
+        },
+        {
+          "title": "Diversión y juegos",
+          "description": "Cumple la promesa de la premisa: el héroe explora el mundo nuevo, gana y pierde de formas frescas."
+        },
+        {
+          "title": "Punto medio",
+          "description": "Una falsa victoria o derrota sube las apuestas y mueve al héroe de la reacción al compromiso."
+        },
+        {
+          "title": "Los malos se acercan",
+          "description": "Las presiones internas y externas se cierran, erosionando lo ganado antes."
+        },
+        {
+          "title": "Todo está perdido",
+          "description": "Un revés devastador hace el objetivo imposible; a menudo incluye una pérdida simbólica."
+        },
+        {
+          "title": "Noche oscura del alma",
+          "description": "En el fondo emocional, el héroe procesa el fracaso y encuentra una nueva verdad."
+        },
+        {
+          "title": "Paso al Acto III",
+          "description": "Con apoyo e intuición, el héroe se compromete con un plan final."
+        },
+        {
+          "title": "Final",
+          "description": "Ejecuta el enfrentamiento final, demostrando crecimiento y resolviendo el conflicto central."
+        },
+        {
+          "title": "Imagen final",
+          "description": "Una imagen de cierre que refleja la inicial y muestra cómo ha cambiado el mundo."
+        }
       ],
       "updatedAt": 1775095200000
     }

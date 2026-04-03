@@ -9,18 +9,54 @@
       "uid": "st_viaje_del_heroe_es_v1",
       "name": "Viaje del Héroe",
       "phases": [
-        "Mundo ordinario",
-        "Llamado a la aventura",
-        "Rechazo del llamado",
-        "Encuentro con el mentor",
-        "Cruce del umbral",
-        "Pruebas, aliados y enemigos",
-        "Aproximación a la cueva profunda",
-        "Ordalía",
-        "Recompensa",
-        "El camino de regreso",
-        "Resurrección",
-        "Regreso con el elixir"
+        {
+          "title": "Mundo ordinario",
+          "description": "La vida del héroe antes de que arranque la historia: establece el mundo cotidiano, el tono y qué podría cambiar."
+        },
+        {
+          "title": "Llamado a la aventura",
+          "description": "Algo altera el mundo ordinario: un problema, una invitación o un suceso que presenta la misión y no admite ignorarse."
+        },
+        {
+          "title": "Rechazo del llamado",
+          "description": "El héroe duda, se resiste o rechaza el viaje, mostrando miedo, lo que está en juego y lo que podría perder."
+        },
+        {
+          "title": "Encuentro con el mentor",
+          "description": "Una guía ofrece consejo, entrenamiento o un don que prepara al héroe para lo desconocido."
+        },
+        {
+          "title": "Cruce del umbral",
+          "description": "El héroe se compromete y entra en un mundo nuevo donde las reglas antiguas ya no aplican."
+        },
+        {
+          "title": "Pruebas, aliados y enemigos",
+          "description": "Los retos revelan fortalezas y debilidades mientras cobran forma relaciones y oposiciones."
+        },
+        {
+          "title": "Aproximación a la cueva profunda",
+          "description": "El héroe y los aliados se preparan para el enfrentamiento central, acercándose al corazón del peligro."
+        },
+        {
+          "title": "Ordalía",
+          "description": "Una crisis mayor impone un enfrentamiento vital y transforma al héroe mediante sacrificio o pérdida."
+        },
+        {
+          "title": "Recompensa",
+          "description": "Tras sobrevivir la prueba, el héroe obtiene un premio, una intuición o un poder que acerca el objetivo."
+        },
+        {
+          "title": "El camino de regreso",
+          "description": "Las consecuencias golpean mientras el héroe vuelve a casa, a menudo perseguido por un conflicto sin cerrar."
+        },
+        {
+          "title": "Resurrección",
+          "description": "Una prueba final exige el máximo cambio del héroe y demuestra en qué se ha convertido."
+        },
+        {
+          "title": "Regreso con el elixir",
+          "description": "El héroe vuelve con lo ganado y lo aplica para sanar, salvar o renovar el mundo ordinario."
+        }
       ],
       "updatedAt": 1775095200000
     }

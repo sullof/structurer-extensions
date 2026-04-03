@@ -9,14 +9,38 @@
       "uid": "st_story_circle_es_v1",
       "name": "Círculo de la Historia",
       "phases": [
-        "TÚ - Establecer protagonista",
-        "NECESIDAD - Algo no encaja",
-        "IR - Cruce del umbral",
-        "BÚSQUEDA - Camino de pruebas",
-        "ENCUENTRO - Encuentro con la diosa",
-        "TOMAR - Encuentro con el destino",
-        "REGRESO - Traerlo a casa",
-        "CAMBIO - Maestro de ambos mundos"
+        {
+          "title": "TÚ - Establecer protagonista",
+          "description": "Sitúa al lector en quién es el protagonista y cómo es su vida cotidiana."
+        },
+        {
+          "title": "NECESIDAD - Algo no encaja",
+          "description": "Muestra una carencia, una herida o un deseo que genera tensión y empuja a actuar."
+        },
+        {
+          "title": "IR - Cruce del umbral",
+          "description": "El protagonista deja la comodidad y entra en una situación o mundo desconocido."
+        },
+        {
+          "title": "BÚSQUEDA - Camino de pruebas",
+          "description": "Se adapta mediante intentos, fracasos, aliados y oposición."
+        },
+        {
+          "title": "ENCUENTRO - Encuentro con la diosa",
+          "description": "Alcanza lo que quería o necesitaba, a menudo con un coste sorprendente."
+        },
+        {
+          "title": "TOMAR - Encuentro con el destino",
+          "description": "Se paga un precio duro: sacrificio, pérdida o enfrentamiento con el miedo más profundo."
+        },
+        {
+          "title": "REGRESO - Traerlo a casa",
+          "description": "El protagonista vuelve al mundo inicial llevando lo que ha ganado."
+        },
+        {
+          "title": "CAMBIO - Maestro de ambos mundos",
+          "description": "Muestra una transformación duradera en valores, conducta o identidad."
+        }
       ],
       "updatedAt": 1775095200000
     }

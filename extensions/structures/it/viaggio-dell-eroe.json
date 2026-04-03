@@ -9,18 +9,54 @@
       "uid": "st_viaggio_dell_eroe_it_v1",
       "name": "Viaggio dell'Eroe",
       "phases": [
-        "Mondo ordinario",
-        "Chiamata all'avventura",
-        "Rifiuto della chiamata",
-        "Incontro con il mentore",
-        "Attraversamento della soglia",
-        "Prove, alleati e nemici",
-        "Avvicinamento alla caverna più profonda",
-        "Prova centrale",
-        "Ricompensa",
-        "Via del ritorno",
-        "Resurrezione",
-        "Ritorno con l'elisir"
+        {
+          "title": "Mondo ordinario",
+          "description": "La vita normale dell’eroe prima che la storia decolli: stabilisci mondo quotidiano, tono e cosa potrebbe cambiare."
+        },
+        {
+          "title": "Chiamata all'avventura",
+          "description": "Qualcosa sconvolge il mondo ordinario: un problema, un invito o un evento che presenta la missione e non può essere ignorato."
+        },
+        {
+          "title": "Rifiuto della chiamata",
+          "description": "L’eroe esita, resiste o rifiuta il viaggio, mostrando paura, posta in gioco e cosa potrebbe perdere."
+        },
+        {
+          "title": "Incontro con il mentore",
+          "description": "Una guida offre consigli, addestramento o un dono che prepara l’eroe all’ignoto."
+        },
+        {
+          "title": "Attraversamento della soglia",
+          "description": "L’eroe si impegna ed entra in un mondo nuovo dove le vecchie regole non valgono più."
+        },
+        {
+          "title": "Prove, alleati e nemici",
+          "description": "Le sfide rivelano punti di forza e debolezza mentre prendono forma relazioni e opposizioni."
+        },
+        {
+          "title": "Avvicinamento alla caverna più profonda",
+          "description": "L’eroe e gli alleati si preparano allo scontro centrale, avvicinandosi al cuore del pericolo."
+        },
+        {
+          "title": "Prova centrale",
+          "description": "Una crisi maggiore impone uno scontro mortale e trasforma l’eroe attraverso sacrificio o perdita."
+        },
+        {
+          "title": "Ricompensa",
+          "description": "Dopo essere sopravvissuto alla prova, l’eroe ottiene un premio, un’intuizione o un potere che avanza verso l’obiettivo."
+        },
+        {
+          "title": "Via del ritorno",
+          "description": "Le conseguenze colpiscono mentre l’eroe torna verso casa, spesso inseguito da un conflitto irrisolto."
+        },
+        {
+          "title": "Resurrezione",
+          "description": "Una prova finale richiede il massimo cambiamento dell’eroe e dimostra chi è diventato."
+        },
+        {
+          "title": "Ritorno con l'elisir",
+          "description": "L’eroe torna con ciò che ha guadagnato e lo applica per guarire, salvare o rinnovare il mondo ordinario."
+        }
       ],
       "updatedAt": 1775095200000
     }

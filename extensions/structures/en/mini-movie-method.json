@@ -9,16 +9,46 @@
       "uid": "st_mini_movie_method_en_v1",
       "name": "Mini-Movie Method",
       "phases": [
-        "Opening Image",
-        "Trigger",
-        "Reaction",
-        "New Direction",
-        "Midpoint Shift",
-        "Complications",
-        "Dark Moment",
-        "Final Decision",
-        "Climax",
-        "Closing Image"
+        {
+          "title": "Opening Image",
+          "description": "A snapshot of the world before change; establish tone and the starting emotional baseline."
+        },
+        {
+          "title": "Trigger",
+          "description": "The event that kicks off this mini-arc and forces a response."
+        },
+        {
+          "title": "Reaction",
+          "description": "Immediate fallout: fear, denial, or action that reveals stakes and character."
+        },
+        {
+          "title": "New Direction",
+          "description": "A choice or pivot that commits the character to a fresh path."
+        },
+        {
+          "title": "Midpoint Shift",
+          "description": "A reversal or revelation that raises stakes and changes strategy or understanding."
+        },
+        {
+          "title": "Complications",
+          "description": "Pressure tightens as obstacles multiply and old tactics stop working."
+        },
+        {
+          "title": "Dark Moment",
+          "description": "The low point where success feels impossible or the cost feels unbearable."
+        },
+        {
+          "title": "Final Decision",
+          "description": "The decisive commitment that launches the climax—no more hedging."
+        },
+        {
+          "title": "Climax",
+          "description": "The payoff beat: confrontation, revelation, or release that resolves the mini-arc’s conflict."
+        },
+        {
+          "title": "Closing Image",
+          "description": "Mirror or contrast the opening to show what changed in world, relationship, or self."
+        }
       ],
       "updatedAt": 1775095200000
     }

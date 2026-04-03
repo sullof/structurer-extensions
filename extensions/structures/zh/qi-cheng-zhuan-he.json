@@ -9,10 +9,22 @@
       "uid": "st_qi_cheng_zhuan_he_zh_v1",
       "name": "起承转合 (Qi Cheng Zhuan He)",
       "phases": [
-        "起 - 开端",
-        "承 - 承接与发展",
-        "转 - 转折",
-        "合 - 收束"
+        {
+          "title": "起 - 开端",
+          "description": "引出人物、情境与叙事走向，建立读者进入故事的入口。"
+        },
+        {
+          "title": "承 - 承接与发展",
+          "description": "顺着开端展开情节，积累信息与情绪，为转折蓄势。"
+        },
+        {
+          "title": "转 - 转折",
+          "description": "关键变化或反转改变局势、视角或冲突方向。"
+        },
+        {
+          "title": "合 - 收束",
+          "description": "收拢线索，给出结局或余韵，使结构完整落地。"
+        }
       ],
       "updatedAt": 1775095200000
     }

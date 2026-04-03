@@ -9,13 +9,34 @@
       "uid": "st_estructura_7_puntos_es_v1",
       "name": "Estructura de 7 Puntos",
       "phases": [
-        "Gancho",
-        "Giro de trama 1",
-        "Punto de presión 1",
-        "Punto medio",
-        "Punto de presión 2",
-        "Giro de trama 2",
-        "Resolución"
+        {
+          "title": "Gancho",
+          "description": "Plantea el estado inicial del protagonista y qué falta o está roto."
+        },
+        {
+          "title": "Giro de trama 1",
+          "description": "Un acontecimiento importante pasa del planteamiento al conflicto activo."
+        },
+        {
+          "title": "Punto de presión 1",
+          "description": "Un golpe de presión que pone de relieve la fuerza antagonista y aumenta el peligro."
+        },
+        {
+          "title": "Punto medio",
+          "description": "Una revelación o inversión central que cambia la dirección y sube las apuestas."
+        },
+        {
+          "title": "Punto de presión 2",
+          "description": "Una presión mayor muestra el coste del fracaso y reduce las opciones."
+        },
+        {
+          "title": "Giro de trama 2",
+          "description": "El giro final que lanza la fase conclusiva."
+        },
+        {
+          "title": "Resolución",
+          "description": "Clímax y consecuencias: los conflictos se cierran y se muestra el nuevo normal."
+        }
       ],
       "updatedAt": 1775095200000
     }

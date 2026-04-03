@@ -9,15 +9,42 @@
       "uid": "st_romancing_the_beat_es_v1",
       "name": "Romancing the Beat (Español)",
       "phases": [
-        "Planteamiento y necesidad",
-        "Encuentro y chispa",
-        "No hay manera / Resistencia",
-        "Adhesión / Proximidad forzada",
-        "Deseo creciente",
-        "Retirada y duda",
-        "Ruptura / Crisis",
-        "Gran gesto",
-        "Compromiso / HEA-HFN"
+        {
+          "title": "Planteamiento y necesidad",
+          "description": "Establece la vida de cada protagonista, la herida emocional y lo que realmente necesitan en el amor."
+        },
+        {
+          "title": "Encuentro y chispa",
+          "description": "Los dos se encuentran y surge fricción, atracción o química inevitable."
+        },
+        {
+          "title": "No hay manera / Resistencia",
+          "description": "Ambos resisten la conexión por miedo, metas, equipaje o límites externos."
+        },
+        {
+          "title": "Adhesión / Proximidad forzada",
+          "description": "Las circunstancias los mantienen juntos, generando interacción repetida y vulnerabilidad."
+        },
+        {
+          "title": "Deseo creciente",
+          "description": "La intimidad crece con momentos compartidos, confianza y riesgo emocional."
+        },
+        {
+          "title": "Retirada y duda",
+          "description": "El miedo y las viejas heridas provocan vacilación; uno o ambos retroceden."
+        },
+        {
+          "title": "Ruptura / Crisis",
+          "description": "Una ruptura separa a la pareja y pone a prueba si el amor puede sobrevivir."
+        },
+        {
+          "title": "Gran gesto",
+          "description": "Uno o ambos eligen el amor con una acción significativa, disculpas o sacrificio."
+        },
+        {
+          "title": "Compromiso / HEA-HFN",
+          "description": "Cierra el romance con un compromiso estable (final feliz o feliz por ahora)."
+        }
       ],
       "updatedAt": 1775095200000
     }

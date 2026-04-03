@@ -27,15 +27,36 @@ Each item in `structures` must include:
 - `id` (string)
 - `uid` (string)
 - `name` (string)
-- `phases` (array of strings, at least 2)
+- `phases` (array, at least 2 entries)
 - `updatedAt` (number, unix milliseconds)
+
+### `phases` format
+
+Structurer **1.12.0+** accepts each phase as either:
+
+1. A **non-empty string** (title only), or
+2. An object **`{ "title": "…", "description": "…" }`**
+   - `title` is required (you may use `name` as an alias for `title`; `title` is preferred).
+   - `description` is optional in the app importer, but **extension files in this repository should use the object form with a non-empty `description` for every phase** (same language as the phase title) so the in-app phase help panel is useful.
+
+Example:
+
+```json
+"phases": [
+  "Plain title only",
+  {
+    "title": "Title with help",
+    "description": "One short sentence: what the writer should do or explore in this phase."
+  }
+]
+```
 
 Constraints:
 
 - `id` must match: `custom_<slug>`
 - `uid` must be alphanumeric and may include `_` and `-`
 - `name` must be non-empty
-- `phases` must contain non-empty strings only
+- `phases` must have at least 2 entries; each entry must be a non-empty string or a non-empty `title` as above
 
 ## Validation Policy
 
@@ -50,7 +71,7 @@ Structurer uses strict import validation:
 When importing a valid extension file:
 
 1. Merge by `uid` first.
-2. Fallback to normalized fingerprint (`name + phases`) when needed.
+2. Fallback to normalized fingerprint (`name` + **phase titles**, ignoring descriptions) when needed.
 3. Apply Last-Write-Wins by `updatedAt`.
 
 ## PR Checklist
@@ -91,3 +112,17 @@ A maintainer can review your files and, if they fit the catalog rules, add them 
 - then other languages (Spanish, Chinese, Arabic, etc.)
 - add a language section only if at least one extension exists in that language
 - if a new language is introduced, add the section title and include at least one linked extension entry
+
+## Rollout checklist: phase descriptions in more languages
+
+After the English + Italian pilot, use this checklist for `es`, `ar`, `zh`, `ja`, `sa`, and any new locale:
+
+1. **Inventory** — List JSON files under `extensions/structures/<lang>/`.
+2. **Convert** — Replace string-only `phases` with `{ "title": "…", "description": "…" }` (descriptions in the **same language** as the titles).
+3. **Validate** — Ensure valid JSON; each phase has non-empty `title` and `description`; `id` / `uid` rules unchanged.
+4. **Import test** — In Structurer 1.12.0+, use **Import custom structure** on at least one file from that folder to confirm strict validation passes.
+5. **Docs** — No change to `EXTENSIONS.md` links unless filenames change; update this guide if the contract evolves.
+
+### Maintainer validation (optional)
+
+You can sanity-check files against Structurer’s importer by opening the app and importing a sample file, or by running a small script that mirrors `parseImportedCustomStructures` in the main app (`structurer` repo, `src/main.js`).

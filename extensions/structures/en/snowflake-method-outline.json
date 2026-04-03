@@ -9,13 +9,34 @@
       "uid": "st_snowflake_method_outline_en_v1",
       "name": "Snowflake Method (Outline Phases)",
       "phases": [
-        "One-Sentence Summary",
-        "One-Paragraph Expansion",
-        "Character Core Arcs",
-        "One-Page Synopsis",
-        "Scene List",
-        "Scene Expansion",
-        "Draft Execution"
+        {
+          "title": "One-Sentence Summary",
+          "description": "Distill the central conflict and hook into one sentence you can test and revise before you expand."
+        },
+        {
+          "title": "One-Paragraph Expansion",
+          "description": "Turn the sentence into a short paragraph covering setup, major turns, and ending shape."
+        },
+        {
+          "title": "Character Core Arcs",
+          "description": "Sketch each lead’s goal, flaw, relationship pressure, and the change they must earn."
+        },
+        {
+          "title": "One-Page Synopsis",
+          "description": "Expand the paragraph into a full-page synopsis of plot beats and emotional through-lines."
+        },
+        {
+          "title": "Scene List",
+          "description": "Break the story into numbered scenes with purpose, conflict, and outcome for each."
+        },
+        {
+          "title": "Scene Expansion",
+          "description": "Expand key scenes into beats, stakes, and what shifts by the scene’s end."
+        },
+        {
+          "title": "Draft Execution",
+          "description": "Write the draft using the outline as a working map, revising the plan only when the story demands it."
+        }
       ],
       "updatedAt": 1775095200000
     }

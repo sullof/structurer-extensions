@@ -9,13 +9,34 @@
       "uid": "st_struttura_7_punti_it_v1",
       "name": "Struttura in 7 Punti",
       "phases": [
-        "Hook",
-        "Primo punto di svolta",
-        "Primo pinch point",
-        "Punto medio",
-        "Secondo pinch point",
-        "Secondo punto di svolta",
-        "Risoluzione"
+        {
+          "title": "Hook",
+          "description": "Imposta lo stato iniziale del protagonista e cosa manca o è spezzato."
+        },
+        {
+          "title": "Primo punto di svolta",
+          "description": "Un evento importante sposta l’eroe dal setup al conflitto attivo."
+        },
+        {
+          "title": "Primo pinch point",
+          "description": "Un colpo di pressione che mette in luce la forza antagonista e alza il pericolo."
+        },
+        {
+          "title": "Punto medio",
+          "description": "Una rivelazione o inversione centrale che cambia direzione e aumenta le poste."
+        },
+        {
+          "title": "Secondo pinch point",
+          "description": "Una pressione più forte mostra il costo del fallimento e restringe le opzioni."
+        },
+        {
+          "title": "Secondo punto di svolta",
+          "description": "La svolta finale che lancia la fase conclusiva."
+        },
+        {
+          "title": "Risoluzione",
+          "description": "Climax e conseguenze: i conflitti si chiudono e si mostra il nuovo normale."
+        }
       ],
       "updatedAt": 1775095200000
     }

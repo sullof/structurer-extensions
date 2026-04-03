@@ -9,14 +9,38 @@
       "uid": "st_estructura_tres_actos_es_v1",
       "name": "Estructura de Tres Actos",
       "phases": [
-        "Acto I - Planteamiento",
-        "Acto I - Incidente incitador",
-        "Acto II - Complicaciones progresivas",
-        "Acto II - Punto medio",
-        "Acto II - Crisis",
-        "Acto II - Paso al Acto III",
-        "Acto III - Clímax",
-        "Acto III - Resolución"
+        {
+          "title": "Acto I - Planteamiento",
+          "description": "Presenta al protagonista, el mundo, objetivos, relaciones y la situación antes de la ruptura."
+        },
+        {
+          "title": "Acto I - Incidente incitador",
+          "description": "Un acontecimiento que altera la normalidad y lanza el problema central de la historia."
+        },
+        {
+          "title": "Acto II - Complicaciones progresivas",
+          "description": "Los obstáculos escalan y obligan a elecciones más duras, revelando un conflicto más profundo."
+        },
+        {
+          "title": "Acto II - Punto medio",
+          "description": "Un giro o revelación importante cambia las apuestas, la estrategia o la comprensión."
+        },
+        {
+          "title": "Acto II - Crisis",
+          "description": "La presión alcanza su pico; el protagonista enfrenta un dilema sin salida o un punto muy bajo."
+        },
+        {
+          "title": "Acto II - Paso al Acto III",
+          "description": "Una decisión firme compromete al protagonista con el enfrentamiento final."
+        },
+        {
+          "title": "Acto III - Clímax",
+          "description": "El conflicto central se resuelve mediante la acción y el gesto definitorio del protagonista."
+        },
+        {
+          "title": "Acto III - Resolución",
+          "description": "Muestra las consecuencias, el nuevo equilibrio y el efecto duradero del viaje."
+        }
       ],
       "updatedAt": 1775095200000
     }

@@ -9,14 +9,38 @@
       "uid": "st_mice_quotient_it_v1",
       "name": "Quoziente MICE",
       "phases": [
-        "Apertura domanda ambientale",
-        "Apertura domanda di idea",
-        "Apertura domanda di personaggio",
-        "Apertura domanda di evento",
-        "Chiusura domanda di evento",
-        "Chiusura domanda di personaggio",
-        "Chiusura domanda di idea",
-        "Chiusura domanda ambientale"
+        {
+          "title": "Apertura domanda ambientale",
+          "description": "Apri il filo del mondo entrando, scoprendo o venendo spostati in un luogo."
+        },
+        {
+          "title": "Apertura domanda di idea",
+          "description": "Introduci il mistero o il problema che richiede una spiegazione."
+        },
+        {
+          "title": "Apertura domanda di personaggio",
+          "description": "Imposta un conflitto interno che il personaggio deve risolvere per crescere."
+        },
+        {
+          "title": "Apertura domanda di evento",
+          "description": "Rompi l’ordine con un cambiamento che crea posta in gioco esterne immediate."
+        },
+        {
+          "title": "Chiusura domanda di evento",
+          "description": "Ripristina o ridefinisci l’ordine risolvendo la rottura esterna."
+        },
+        {
+          "title": "Chiusura domanda di personaggio",
+          "description": "Completa l’arco interno mostrando la scelta o l’identità trasformata."
+        },
+        {
+          "title": "Chiusura domanda di idea",
+          "description": "Rispondi al mistero o al problema, o accetta la migliore spiegazione possibile."
+        },
+        {
+          "title": "Chiusura domanda ambientale",
+          "description": "Chiudi il filo del mondo uscendo, tornando o integrandoti nel luogo."
+        }
       ],
       "updatedAt": 1775095200000
     }

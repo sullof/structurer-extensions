@@ -9,21 +9,66 @@
       "uid": "st_save_the_cat_it_v1",
       "name": "Save the Cat (Italiano)",
       "phases": [
-        "Immagine iniziale",
-        "Tema dichiarato",
-        "Setup",
-        "Catalizzatore",
-        "Dibattito",
-        "Entrata nel secondo atto",
-        "Trama B",
-        "Fun and Games",
-        "Punto medio",
-        "I cattivi si avvicinano",
-        "Tutto è perduto",
-        "Notte oscura dell'anima",
-        "Entrata nel terzo atto",
-        "Finale",
-        "Immagine finale"
+        {
+          "title": "Immagine iniziale",
+          "description": "Un’istantanea del mondo dell’eroe prima del cambiamento; stabilisci tono e punto di partenza."
+        },
+        {
+          "title": "Tema dichiarato",
+          "description": "Qualcuno esprime la lezione centrale o la domanda della storia, spesso prima che l’eroe la capisca."
+        },
+        {
+          "title": "Setup",
+          "description": "Costruisci personaggi, difetti, posta in gioco e relazioni che saranno messe alla prova dopo."
+        },
+        {
+          "title": "Catalizzatore",
+          "description": "Un evento dirompente costringe l’eroe fuori dalla routine e crea un problema chiaro."
+        },
+        {
+          "title": "Dibattito",
+          "description": "L’eroe resiste all’azione, pesando paura, costo e incertezza prima di impegnarsi."
+        },
+        {
+          "title": "Entrata nel secondo atto",
+          "description": "L’eroe sceglie di entrare nel mondo capovolto del secondo atto."
+        },
+        {
+          "title": "Trama B",
+          "description": "Inizia una sottotrama relazionale o tematica che sostiene la trasformazione dell’eroe."
+        },
+        {
+          "title": "Fun and Games",
+          "description": "Consegna la promessa della premessa: l’eroe esplora il mondo nuovo, vince e fallisce in modi freschi."
+        },
+        {
+          "title": "Punto medio",
+          "description": "Una falsa vittoria o una sconfitta alza le poste e sposta l’eroe dalla reazione all’impegno."
+        },
+        {
+          "title": "I cattivi si avvicinano",
+          "description": "Pressioni interne ed esterne si stringono, erodendo i guadagni dei successi precedenti."
+        },
+        {
+          "title": "Tutto è perduto",
+          "description": "Un contraccolo devastante rende l’obiettivo impossibile; spesso include una perdita simbolica."
+        },
+        {
+          "title": "Notte oscura dell'anima",
+          "description": "Al fondo emotivo, l’eroe elabora il fallimento e trova una nuova verità."
+        },
+        {
+          "title": "Entrata nel terzo atto",
+          "description": "Con intuizione e supporto, l’eroe si impegna in un piano finale."
+        },
+        {
+          "title": "Finale",
+          "description": "Esegui lo scontro finale, dimostrando crescita e risolvendo il conflitto centrale."
+        },
+        {
+          "title": "Immagine finale",
+          "description": "Un’immagine di chiusura che rispecchia l’iniziale e mostra come il mondo è cambiato."
+        }
       ],
       "updatedAt": 1775095200000
     }

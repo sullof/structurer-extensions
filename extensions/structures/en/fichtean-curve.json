@@ -9,13 +9,34 @@
       "uid": "st_fichtean_curve_en_v1",
       "name": "Fichtean Curve",
       "phases": [
-        "Inciting Incident",
-        "Crisis 1",
-        "Crisis 2",
-        "Crisis 3",
-        "Crisis 4",
-        "Climax",
-        "Aftermath"
+        {
+          "title": "Inciting Incident",
+          "description": "Opens the conflict and launches the story engine with minimal upfront exposition."
+        },
+        {
+          "title": "Crisis 1",
+          "description": "First major reversal that raises stakes and forces a new response."
+        },
+        {
+          "title": "Crisis 2",
+          "description": "Escalation: deeper trouble, tighter options, clearer cost of failure."
+        },
+        {
+          "title": "Crisis 3",
+          "description": "Another turn that pushes the protagonist toward their limit or a painful truth."
+        },
+        {
+          "title": "Crisis 4",
+          "description": "Late-stage pressure that sets up the final confrontation or sacrifice."
+        },
+        {
+          "title": "Climax",
+          "description": "Peak confrontation where the central conflict resolves through action and choice."
+        },
+        {
+          "title": "Aftermath",
+          "description": "Brief fallout showing consequence, relief, or the price paid after the climax."
+        }
       ],
       "updatedAt": 1775095200000
     }

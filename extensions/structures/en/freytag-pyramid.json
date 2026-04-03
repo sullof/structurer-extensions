@@ -9,13 +9,34 @@
       "uid": "st_freytag_pyramid_en_v1",
       "name": "Freytag's Pyramid",
       "phases": [
-        "Exposition",
-        "Inciting Incident",
-        "Rising Action",
-        "Climax",
-        "Falling Action",
-        "Resolution",
-        "Denouement"
+        {
+          "title": "Exposition",
+          "description": "Establish setting, characters, and the ordinary world before tension takes hold."
+        },
+        {
+          "title": "Inciting Incident",
+          "description": "An event disrupts equilibrium and launches the central conflict."
+        },
+        {
+          "title": "Rising Action",
+          "description": "Complications escalate as obstacles, choices, and stakes intensify."
+        },
+        {
+          "title": "Climax",
+          "description": "The story’s turning point of highest tension and decisive confrontation."
+        },
+        {
+          "title": "Falling Action",
+          "description": "Consequences unfold and momentum moves toward a settled outcome."
+        },
+        {
+          "title": "Resolution",
+          "description": "The main conflict resolves and a new stable situation emerges."
+        },
+        {
+          "title": "Denouement",
+          "description": "Final emotional closure and the sense of the new normal after the storm."
+        }
       ],
       "updatedAt": 1775095200000
     }

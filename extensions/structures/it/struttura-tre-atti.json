@@ -9,14 +9,38 @@
       "uid": "st_struttura_tre_atti_it_v1",
       "name": "Struttura in Tre Atti",
       "phases": [
-        "Atto I - Setup",
-        "Atto I - Incidente scatenante",
-        "Atto II - Complicazioni progressive",
-        "Atto II - Punto medio",
-        "Atto II - Crisi",
-        "Atto II - Passaggio all'Atto III",
-        "Atto III - Climax",
-        "Atto III - Risoluzione"
+        {
+          "title": "Atto I - Setup",
+          "description": "Presenta protagonista, mondo, obiettivi, relazioni e la situazione di partenza prima della rottura."
+        },
+        {
+          "title": "Atto I - Incidente scatenante",
+          "description": "Un evento di svolta sconvolge la vita normale e lancia il problema della storia."
+        },
+        {
+          "title": "Atto II - Complicazioni progressive",
+          "description": "Ostacoli crescenti impongono scelte più dure e rivelano un conflitto più profondo."
+        },
+        {
+          "title": "Atto II - Punto medio",
+          "description": "Una svolta o una rivelazione maggiore cambia posta in gioco, strategia o comprensione."
+        },
+        {
+          "title": "Atto II - Crisi",
+          "description": "La pressione raggiunge il picco; il protagonista affronta un dilemma senza uscita o un punto più basso."
+        },
+        {
+          "title": "Atto II - Passaggio all'Atto III",
+          "description": "Una scelta decisiva impegna il protagonista nello scontro finale."
+        },
+        {
+          "title": "Atto III - Climax",
+          "description": "Il conflitto centrale si risolve attraverso l’azione e la mossa definitoria del protagonista."
+        },
+        {
+          "title": "Atto III - Risoluzione",
+          "description": "Mostra le conseguenze, il nuovo equilibrio e l’effetto duraturo del viaggio."
+        }
       ],
       "updatedAt": 1775095200000
     }

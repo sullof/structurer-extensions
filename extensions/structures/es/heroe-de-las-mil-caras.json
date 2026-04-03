@@ -9,23 +9,74 @@
       "uid": "st_heroe_mil_caras_es_v1",
       "name": "El Héroe de las Mil Caras",
       "phases": [
-        "Llamado a la aventura",
-        "Rechazo del llamado",
-        "Ayuda sobrenatural",
-        "Cruce del primer umbral",
-        "Vientre de la ballena",
-        "Camino de pruebas",
-        "Encuentro con la diosa",
-        "La mujer como tentación",
-        "Expiación con el padre",
-        "Apoteosis",
-        "La dádiva final",
-        "Rechazo del regreso",
-        "La huida mágica",
-        "Rescate desde afuera",
-        "Cruce del umbral de retorno",
-        "Maestro de dos mundos",
-        "Libertad para vivir"
+        {
+          "title": "Llamado a la aventura",
+          "description": "Un suceso convoca al héroe más allá de la vida ordinaria hacia un ignoto significativo."
+        },
+        {
+          "title": "Rechazo del llamado",
+          "description": "El héroe resiste la convocatoria, mostrando miedo, deber o apego al mundo viejo."
+        },
+        {
+          "title": "Ayuda sobrenatural",
+          "description": "Un protector, mentor o talismán aparece para equipar al héroe en el viaje."
+        },
+        {
+          "title": "Cruce del primer umbral",
+          "description": "El héroe pasa de lo familiar al reino de la aventura y las consecuencias."
+        },
+        {
+          "title": "Vientre de la ballena",
+          "description": "Un momento iniciático en que el yo antiguo muere simbólicamente y comienza la transformación."
+        },
+        {
+          "title": "Camino de pruebas",
+          "description": "Una secuencia de pruebas y encuentros que construye competencia, aliados y cambio interior."
+        },
+        {
+          "title": "Encuentro con la diosa",
+          "description": "El héroe vive revelación, gracia o una visión de totalidad que reorienta la misión."
+        },
+        {
+          "title": "La mujer como tentación",
+          "description": "Una distracción seductora—literal o simbólica—amenaza con apartar al héroe del propósito."
+        },
+        {
+          "title": "Expiación con el padre",
+          "description": "El héroe enfrenta la autoridad última y resuelve una fuente central de miedo o conflicto."
+        },
+        {
+          "title": "Apoteosis",
+          "description": "Un momento de comprensión elevada en que el héroe gana una perspectiva más amplia."
+        },
+        {
+          "title": "La dádiva final",
+          "description": "El héroe asegura el tesoro, el conocimiento o el poder buscado en el viaje."
+        },
+        {
+          "title": "Rechazo del regreso",
+          "description": "Tras obtener la dádiva, el héroe duda en volver a la vida ordinaria."
+        },
+        {
+          "title": "La huida mágica",
+          "description": "El regreso se vuelve urgente, peligroso o disputado mientras fuerzas resisten la huida del héroe."
+        },
+        {
+          "title": "Rescate desde afuera",
+          "description": "Una ayuda externa interviene cuando el héroe no puede completar el regreso solo."
+        },
+        {
+          "title": "Cruce del umbral de retorno",
+          "description": "El héroe reingresa en la realidad cotidiana y debe integrar la experiencia extraordinaria."
+        },
+        {
+          "title": "Maestro de dos mundos",
+          "description": "El héroe equilibra mundo interior y exterior, usando la sabiduría en ambos ámbitos."
+        },
+        {
+          "title": "Libertad para vivir",
+          "description": "Liberado del miedo a la pérdida o la muerte, el héroe puede actuar plenamente en el presente."
+        }
       ],
       "updatedAt": 1775095200000
     }

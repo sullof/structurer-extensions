@@ -9,10 +9,22 @@
       "uid": "st_kishotenketsu_ja_v1",
       "name": "起承転結 (Kishotenketsu)",
       "phases": [
-        "起 (Ki) - 導入",
-        "承 (Sho) - 展開",
-        "転 (Ten) - 転換",
-        "結 (Ketsu) - 結末"
+        {
+          "title": "起 (Ki) - 導入",
+          "description": "人物・状況・読者を物語へ導く導入；きっかけや文脈を示す。"
+        },
+        {
+          "title": "承 (Sho) - 展開",
+          "description": "導入を受けて展開が進み、情報と感情が積み重なる。"
+        },
+        {
+          "title": "転 (Ten) - 転換",
+          "description": "視点・状況・解釈を変える転換や意外な展開。"
+        },
+        {
+          "title": "結 (Ketsu) - 結末",
+          "description": "転を受けて収束し、結論や余韻で円環を閉じる。"
+        }
       ],
       "updatedAt": 1775095200000
     }

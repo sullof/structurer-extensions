@@ -9,23 +9,74 @@
       "uid": "st_eroe_mille_facce_it_v1",
       "name": "L'Eroe dalle Mille Facce",
       "phases": [
-        "Chiamata all'avventura",
-        "Rifiuto della chiamata",
-        "Aiuto soprannaturale",
-        "Attraversamento della prima soglia",
-        "Ventre della balena",
-        "Via delle prove",
-        "Incontro con la dea",
-        "La donna come tentatrice",
-        "Riconciliazione con il padre",
-        "Apoteosi",
-        "Dono supremo",
-        "Rifiuto del ritorno",
-        "Fuga magica",
-        "Soccorso dall'esterno",
-        "Attraversamento della soglia del ritorno",
-        "Maestro di due mondi",
-        "Libertà di vivere"
+        {
+          "title": "Chiamata all'avventura",
+          "description": "Un evento chiama l’eroe oltre la vita ordinaria verso un ignoto significativo."
+        },
+        {
+          "title": "Rifiuto della chiamata",
+          "description": "L’eroe resiste alla chiamata, mostrando paura, dovere o attaccamento al mondo vecchio."
+        },
+        {
+          "title": "Aiuto soprannaturale",
+          "description": "Un protettore, un mentore o un talismano appare per equipaggiare l’eroe per il viaggio."
+        },
+        {
+          "title": "Attraversamento della prima soglia",
+          "description": "L’eroe passa dal familiare al regno dell’avventura e delle conseguenze."
+        },
+        {
+          "title": "Ventre della balena",
+          "description": "Un momento di iniziazione in cui il vecchio sé muore simbolicmente e inizia la trasformazione."
+        },
+        {
+          "title": "Via delle prove",
+          "description": "Una sequenza di prove e incontri che costruisce competenza, alleati e cambiamento interiore."
+        },
+        {
+          "title": "Incontro con la dea",
+          "description": "L’eroe vive rivelazione, grazia o una visione di completezza che riorienta la missione."
+        },
+        {
+          "title": "La donna come tentatrice",
+          "description": "Una distrazione seducente—letterale o simbolica—minaccia di distogliere l’eroe dallo scopo."
+        },
+        {
+          "title": "Riconciliazione con il padre",
+          "description": "L’eroe affronta l’autorità ultima e risolve una fonte centrale di paura o conflitto."
+        },
+        {
+          "title": "Apoteosi",
+          "description": "Un momento di comprensione elevata in cui l’eroe guadagna una prospettiva più ampia."
+        },
+        {
+          "title": "Dono supremo",
+          "description": "L’eroe ottiene il tesoro, la conoscenza o il potere ricercato dal viaggio."
+        },
+        {
+          "title": "Rifiuto del ritorno",
+          "description": "Dopo aver ottenuto il dono, l’eroe esita a tornare alla vita ordinaria."
+        },
+        {
+          "title": "Fuga magica",
+          "description": "Il ritorno diventa urgente, pericoloso o contestato mentre forze resistono alla fuga dell’eroe."
+        },
+        {
+          "title": "Soccorso dall'esterno",
+          "description": "Un aiuto esterno interviene quando l’eroe non può completare il ritorno da solo."
+        },
+        {
+          "title": "Attraversamento della soglia del ritorno",
+          "description": "L’eroe rientra nella realtà quotidiana e deve integrare l’esperienza straordinaria."
+        },
+        {
+          "title": "Maestro di due mondi",
+          "description": "L’eroe bilancia mondo interiore ed esterno, usando la saggezza in entrambi i regni."
+        },
+        {
+          "title": "Libertà di vivere",
+          "description": "Liberato dalla paura di perdita o morte, l’eroe può agire pienamente nel presente."
+        }
       ],
       "updatedAt": 1775095200000
     }

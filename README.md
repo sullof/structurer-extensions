@@ -23,6 +23,14 @@ Structurer helps you design stories with visual phases and notes. This repo keep
 - JSON files in this repository target Structurer `1.12.0+`.
 - Import is strict-validated in the app: invalid files are fully rejected (no partial import).
 
+## History
+
+**2026-04-03** 
+— All extension structures updated with per-phase descriptions (`title` + `description`) for use with Structurer’s phase help UI.
+
+**2026-04-02** 
+— Repository initialized; extension packs added with structures using simple string-only phases (titles only).
+
 ## Main App
 
 - Structurer repository: <https://github.com/sullof/structurer>

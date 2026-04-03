@@ -9,13 +9,34 @@
       "uid": "st_novela_picaresca_es_v1",
       "name": "Novela Picaresca",
       "phases": [
-        "Orígenes humildes",
-        "Servicio a un amo",
-        "Cambio de amo y nuevo episodio",
-        "Engaño y supervivencia",
-        "Caída o castigo parcial",
-        "Nueva huida",
-        "Cierre abierto moralizante"
+        {
+          "title": "Orígenes humildes",
+          "description": "Presenta al pícaro, su mundo marginal y las reglas que lo obligan a sobrevivir."
+        },
+        {
+          "title": "Servicio a un amo",
+          "description": "El protagonista entra al servicio de un poder; aparece la sátira social y el contraste de clases."
+        },
+        {
+          "title": "Cambio de amo y nuevo episodio",
+          "description": "Una mudanza de patron o escenario lanza un nuevo episodio de engaños y peripecias."
+        },
+        {
+          "title": "Engaño y supervivencia",
+          "description": "El ingenio y la astucia sostienen al pícaro frente a hambre, leyes o hipocresía."
+        },
+        {
+          "title": "Caída o castigo parcial",
+          "description": "Un revés expone el precio del engaño o la crueldad del orden establecido."
+        },
+        {
+          "title": "Nueva huida",
+          "description": "El ciclo se renueva: huida, nuevo amo o nuevo entorno para seguir la narración episódica."
+        },
+        {
+          "title": "Cierre abierto moralizante",
+          "description": "Un desenlace que suele ironizar la moral oficial y deja entrever que la vida sigue igual."
+        }
       ],
       "updatedAt": 1775095200000
     }

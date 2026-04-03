@@ -9,14 +9,38 @@
       "uid": "st_story_circle_zh_v1",
       "name": "故事圆环",
       "phases": [
-        "YOU - 建立主角",
-        "NEED - 出现缺失",
-        "GO - 跨越门槛",
-        "SEARCH - 试炼之路",
-        "FIND - 得到关键之物",
-        "TAKE - 付出代价",
-        "RETURN - 带着成果归来",
-        "CHANGE - 完成转变"
+        {
+          "title": "YOU - 建立主角",
+          "description": "让读者认识主角是谁，以及日常是什么样。"
+        },
+        {
+          "title": "NEED - 出现缺失",
+          "description": "揭示缺口、创伤或欲望，制造张力并推动行动。"
+        },
+        {
+          "title": "GO - 跨越门槛",
+          "description": "主角离开舒适区，进入陌生情境或世界。"
+        },
+        {
+          "title": "SEARCH - 试炼之路",
+          "description": "通过尝试、失败、盟友与对抗来适应与成长。"
+        },
+        {
+          "title": "FIND - 得到关键之物",
+          "description": "得到想要或所需之物，常伴随意外代价。"
+        },
+        {
+          "title": "TAKE - 付出代价",
+          "description": "付出沉重代价：牺牲、失去，或与最深恐惧对峙。"
+        },
+        {
+          "title": "RETURN - 带着成果归来",
+          "description": "主角带着所得回到原初世界。"
+        },
+        {
+          "title": "CHANGE - 完成转变",
+          "description": "在价值观、行为或身份上呈现持久的改变。"
+        }
       ],
       "updatedAt": 1775095200000
     }

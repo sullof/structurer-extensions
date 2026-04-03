@@ -9,14 +9,38 @@
       "uid": "st_w_plot_method_en_v1",
       "name": "W-Plot / W-Method",
       "phases": [
-        "Status Quo",
-        "First Downturn",
-        "First Recovery",
-        "Second Downturn",
-        "Second Recovery",
-        "Lowest Point",
-        "Final Rise",
-        "Resolution"
+        {
+          "title": "Status Quo",
+          "description": "Establish the baseline world, relationships, and what passes for normal."
+        },
+        {
+          "title": "First Downturn",
+          "description": "An early setback that introduces the problem and lowers the protagonist’s position."
+        },
+        {
+          "title": "First Recovery",
+          "description": "A rally—hope, progress, or a partial win that still leaves the core wound open."
+        },
+        {
+          "title": "Second Downturn",
+          "description": "A deeper fall: stakes rise and the old strategy stops working."
+        },
+        {
+          "title": "Second Recovery",
+          "description": "Another upswing—often a false victory or fragile alliance before the final test."
+        },
+        {
+          "title": "Lowest Point",
+          "description": "Rock bottom: loss, betrayal, or failure that demands a new kind of courage."
+        },
+        {
+          "title": "Final Rise",
+          "description": "The climb toward climax using lessons earned through the W-shaped trials."
+        },
+        {
+          "title": "Resolution",
+          "description": "Show the new equilibrium and how the journey changed the protagonist’s world."
+        }
       ],
       "updatedAt": 1775095200000
     }

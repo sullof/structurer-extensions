@@ -9,14 +9,38 @@
       "uid": "st_story_circle_ja_v1",
       "name": "ストーリー・サークル",
       "phases": [
-        "YOU - 主人公を示す",
-        "NEED - 何かが欠けている",
-        "GO - 閾を越える",
-        "SEARCH - 試練の道",
-        "FIND - 女神との出会い",
-        "TAKE - 代償を払う",
-        "RETURN - 持ち帰る",
-        "CHANGE - 変化した姿"
+        {
+          "title": "YOU - 主人公を示す",
+          "description": "読者を主人公とその日常に着地させる。"
+        },
+        {
+          "title": "NEED - 何かが欠けている",
+          "description": "欠如・傷・欲望を示し、緊張と動きの動機を生む。"
+        },
+        {
+          "title": "GO - 閾を越える",
+          "description": "主人公は安心領域を離れ、未知の状況や世界へ入る。"
+        },
+        {
+          "title": "SEARCH - 試練の道",
+          "description": "試行・失敗・仲間・対立を通じて適応する。"
+        },
+        {
+          "title": "FIND - 女神との出会い",
+          "description": "欲しいものや必要なものに到達するが、しばしば予想外の代償がある。"
+        },
+        {
+          "title": "TAKE - 代償を払う",
+          "description": "犠牲・喪失、あるいは最深の恐怖との対峙という重い代償。"
+        },
+        {
+          "title": "RETURN - 持ち帰る",
+          "description": "得たものを携えて元の世界へ戻る。"
+        },
+        {
+          "title": "CHANGE - 変化した姿",
+          "description": "価値観・行動・アイデンティティに持続的な変化を示す。"
+        }
       ],
       "updatedAt": 1775095200000
     }
