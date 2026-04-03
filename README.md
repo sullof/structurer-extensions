@@ -1,6 +1,6 @@
 # Structurer Extensions
 
-This repository contains extension packs for [Structurer](https://github.com/StructurerHQ/structurer), a privacy-first story planning app for writers.
+This repository contains extension packs for [Structurer](https://github.com/sullof/structurer), a privacy-first story planning app for writers.
 
 Structurer helps you design stories with visual phases and notes. This repo keeps extra/custom structures separate from the main app so the core project stays clean and lightweight.
 
@@ -25,5 +25,5 @@ Structurer helps you design stories with visual phases and notes. This repo keep
 
 ## Main App
 
-- Structurer repository: <https://github.com/StructurerHQ/structurer>
+- Structurer repository: <https://github.com/sullof/structurer>
 - Live app: <https://structurer.sullo.co/>
