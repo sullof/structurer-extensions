@@ -46,11 +46,11 @@ If you want to contribute a new extension, please follow the contribution guide:
 
 ## العربية
 
-- [رحلة البطل](https://raw.githubusercontent.com/sullof/structurer-extensions/main/extensions/structures/ar/heros-journey-ar.json) - Arabic translation of the Hero's Journey.
-- [البنية ثلاثية الفصول](https://raw.githubusercontent.com/sullof/structurer-extensions/main/extensions/structures/ar/three-act-structure-ar.json) - Arabic translation of the Three-Act Structure.
-- [Save the Cat (العربية)](https://raw.githubusercontent.com/sullof/structurer-extensions/main/extensions/structures/ar/save-the-cat-ar.json) - Arabic translation of Save the Cat.
-- [دائرة القصة](https://raw.githubusercontent.com/sullof/structurer-extensions/main/extensions/structures/ar/story-circle-ar.json) - Arabic translation of Story Circle.
-- [المقامة (Maqama Episodic Chain)](https://raw.githubusercontent.com/sullof/structurer-extensions/main/extensions/structures/ar/maqama-episodic-chain.json) - Episodic rhetorical structure inspired by maqama tradition.
+- [رحلة البطل](https://raw.githubusercontent.com/sullof/structurer-extensions/main/extensions/structures/ar/heros-journey-ar.json) — Arabic translation of the Hero's Journey
+- [البنية ثلاثية الفصول](https://raw.githubusercontent.com/sullof/structurer-extensions/main/extensions/structures/ar/three-act-structure-ar.json) — Arabic translation of the Three-Act Structure
+- [Save the Cat (العربية)](https://raw.githubusercontent.com/sullof/structurer-extensions/main/extensions/structures/ar/save-the-cat-ar.json) — Arabic translation of Save the Cat
+- [دائرة القصة](https://raw.githubusercontent.com/sullof/structurer-extensions/main/extensions/structures/ar/story-circle-ar.json) — Arabic translation of Story Circle
+- [المقامة (Maqama Episodic Chain)](https://raw.githubusercontent.com/sullof/structurer-extensions/main/extensions/structures/ar/maqama-episodic-chain.json) — Episodic rhetorical structure inspired by maqama tradition
 
 ## 中文
 
