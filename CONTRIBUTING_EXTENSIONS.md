@@ -12,7 +12,7 @@ Custom structure files must use this top-level shape:
 
 ```json
 {
-  "exportType": "structurer.custom-structures",
+  "exportType": "structurer.structures",
   "schemaVersion": 2,
   "exportedAt": 0,
   "appVersion": "1.13.1",
